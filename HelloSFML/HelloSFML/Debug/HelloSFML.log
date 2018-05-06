@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HelloSFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Timber.cpp
+c:\users\goku\source\repos\hellosfml\hellosfml\src\timber.cpp(341): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  HelloSFML.vcxproj -> C:\Users\GOKU\source\repos\HelloSFML\bin\Win32\Debug\Timber.exe
+  HelloSFML.vcxproj -> C:\Users\GOKU\source\repos\HelloSFML\bin\Win32\Debug\Timber.pdb (Partial PDB)
